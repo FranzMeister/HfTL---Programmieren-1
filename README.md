@@ -1,1 +1,1 @@
-gitprog
+Programmieraufgaben zum Modul Programmieren 1 an der Hochschule für Telekommunikation Leipzig
